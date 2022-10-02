@@ -11,4 +11,4 @@ client.on('message', async message => {
     if (message.author.bot) return;
     message.channel.send("Hi!")
 });
-client.login("MTAyMjYwMDM1NTE3Mjg1MTg0Mg.GA9kIE.lSdpFJYQN3xeroo3-d773d-KeIrEPEH597OewY")
+client.login("MTAyMjYwMDM1NTE3Mjg1MTg0Mg.G8Aq0q.17VYP0-Et-qBZi-sxHrxZ260GOM5WhyOViI3t0")
